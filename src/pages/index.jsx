@@ -60,7 +60,7 @@ export default function StatusPage({ env }) {
           <div className="min-h-screen min-w-screen grid place-items-center">
             <Alert status="error" variant="solid" borderRadius="xl">
               <AlertIcon />
-              UPTY_DATA_KEY not available.
+              Set UPTY_DATA_KEY.
             </Alert>
           </div>
         )}
