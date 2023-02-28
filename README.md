@@ -81,6 +81,6 @@ curl http://your-app-url/api/getStatus
 }
 ```
 
-By (xarzoa)[https://xat.icu].
+By [xarzoa](https://xat.icu).
 
 Copyright 2023.
