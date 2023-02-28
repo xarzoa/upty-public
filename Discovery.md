@@ -10,7 +10,7 @@ homepage: "https://public.upty.xat.icu/"
 
 ## Install Upty
 
-[![Install on Deta](https://deta.space/buttons/dark.svg 'Deta.space')](https://deta.space/discovery/@xarzoa/upty)
+[Upty](/discovery/@xarzoa/upty)
 
 **Notes**
 
