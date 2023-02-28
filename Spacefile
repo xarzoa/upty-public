@@ -1,0 +1,15 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+app_name: Upty public
+icon: public/upty.png
+micros:
+  - name: upty-public
+    src: .
+    engine: next
+    primary: true
+    public_routes:
+      - '/*'
+    presets:
+      env:
+        - name: UPTY_DATA_KEY
+          description: Data key of your upty instance. (Goto app settings and create your key)
