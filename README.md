@@ -25,8 +25,8 @@
 
 **Setup?**
 
-- Install 
-- Goto app
+- Install.
+- Goto app.
 - Add `UPTY_DATA_KEY` environment variable.
 - You're live.
 
